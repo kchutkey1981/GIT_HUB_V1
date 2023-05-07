@@ -1,1 +1,2 @@
+GIT REVERT 2
 This is a file in the newfilebranch2
